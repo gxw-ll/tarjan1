@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tarjan", "tarjan\tarjan.vcxproj", "{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Debug|x64.ActiveCfg = Debug|x64
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Debug|x64.Build.0 = Debug|x64
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Debug|x86.Build.0 = Debug|Win32
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Release|x64.ActiveCfg = Release|x64
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Release|x64.Build.0 = Release|x64
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Release|x86.ActiveCfg = Release|Win32
+		{9F80CDDE-F0D0-48CD-AE64-D32E81D45D8F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933E498D-6FF2-41D5-BAA0-B92C36450AB6}
+	EndGlobalSection
+EndGlobal
